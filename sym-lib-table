@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MCU_Microchip_8051)(type Legacy)(uri ${KIPRJMOD}/MCU_Microchip_8051.lib)(options "")(descr ""))
+  (lib (name Memory_EEPROM)(type Legacy)(uri ${KIPRJMOD}/Memory_EEPROM.lib)(options "")(descr ""))
+)

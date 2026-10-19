@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Connector_Dsub)(type KiCad)(uri D:/Projects/PCB/SBC/Z80_sbc/Connector_Dsub)(options "")(descr ""))
+  (lib (name AT89C52_sbc_basic)(type KiCad)(uri D:/Projects/PCB/SBC/AT89C51_sbc)(options "")(descr ""))
+)
